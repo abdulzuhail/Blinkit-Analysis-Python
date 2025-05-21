@@ -15,8 +15,6 @@
   - Visualize key metrics using `matplotlib`, `seaborn`, and `plotly`.
 
   ---
-  ---
-
 ## 🛠️ Technologies Used
 
 - Python 3.x
